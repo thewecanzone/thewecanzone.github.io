@@ -1,4 +1,5 @@
----Contact Us
+---
+name: Contact Us
 about: Please fill this out if you have any questions.
 title: Inquiry about [TOPIC]
 labels: question
