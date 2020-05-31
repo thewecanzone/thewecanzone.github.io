@@ -1,0 +1,2 @@
+# Our Story
+We Can was founded in 2016 by Dr. Sarah Guthals. Sarah's passion is bringing confidence and support to kids all around the world who enjoy coding, designing, creating, building, and most importantly, dreaming. The organization is dedicated to bringing resources to parents, educators, and kids to help them make their dreams a reality!

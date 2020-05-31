@@ -1,0 +1,6 @@
+# Pair Programming
+Pair Programming is an effective practice for engaging students in the language of the discipline. In Pair Programming there are two student for every single computer. The students are each given a role "Driver" and "Navigator". The Driver is the one who controls the mouse and keyboard and just like in a car, is focused on now making obvious mistakes (e.g. forgetting a semi-colon : hitting a car). The Navigator watches while the Driver types the code and just like in a car, is focused on getting to the solution (e.g. using the right variable : taking the right exit).
+
+In older classrooms (high school or college), students are told to switch roles every 15 minutes. In younger classrooms, students can switch every 30 seconds. The point of this exercise is to have two students engaging in the development of their code, requiring them to explain why they want to make a certain change or addition to their code, and therefore requiring them to use the language of the discipline to explain their understanding of what they are doing.
+
+By requiring students to switch roles, I require them to both be constantly engaged, and both have a need to understand all aspects of the code. 
